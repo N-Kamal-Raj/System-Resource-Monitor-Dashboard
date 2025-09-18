@@ -11,7 +11,7 @@ This project monitors **CPU, memory, and GPU** resources and shows them in a sim
 
 ---
 ##Hugging Face Deployment - 
-https://huggingface.co/spaces/kamalrajn/system_resource_monitor
+- https://huggingface.co/spaces/kamalrajn/system_resource_monitor
 ---
 ## 🛠️ Run Locally
 ```bash
