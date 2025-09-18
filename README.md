@@ -10,8 +10,12 @@ This project monitors **CPU, memory, and GPU** resources and shows them in a sim
 - Displays results in JSON format on the UI  
 
 ---
-
+##Hugging Face Deployment - 
+https://huggingface.co/spaces/kamalrajn/system_resource_monitor
+---
 ## 🛠️ Run Locally
 ```bash
 pip install -r requirements.txt
 python app.py
+
+
